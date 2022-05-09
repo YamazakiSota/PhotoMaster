@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+PhotoMaster in PhotoMaster, no dependencies
+PhotoMaster in PhotoMaster, no dependencies

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>5E1D0C87-2012-4E13-A125-374C79E6313E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>5E1D0C87-2012-4E13-A125-374C79E6313E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>PhotoMaster-bbderwexkfzzoxbqiulmzzxlkvkv</string>
+			<key>timeStartedRecording</key>
+			<real>673343586.17676306</real>
+			<key>timeStoppedRecording</key>
+			<real>673343586.90740502</real>
+			<key>title</key>
+			<string>Build target PhotoMaster</string>
+			<key>uniqueIdentifier</key>
+			<string>5E1D0C87-2012-4E13-A125-374C79E6313E</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>
